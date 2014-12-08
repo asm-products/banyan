@@ -1,4 +1,8 @@
 # Banyan
+Correct repositories-
+https://github.com/asm-products/banyan-ios
+https://github.com/asm-products/banyan-web
+https://github.com/asm-products/banyan-android
 
 ## Collaborative social experiences
 
